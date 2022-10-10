@@ -34,7 +34,7 @@ To run this project, follow these steps:
 ```
 5. Access the container and run the application
 ```bash
-❯ docker exec -it codeflix-encoder-microservice_app_1 make server
+❯ docker exec -it codeflix-encoder-microservice-app-1 make server
 ```
 
 ## Running Tests
@@ -53,7 +53,7 @@ To run tests, follow these steps:
 ```
 4. Wait until the container start and access it
 ```bash
-❯ docker exec -it codeflix-encoder-microservice_app_1 bash
+❯ docker exec -it codeflix-encoder-microservice-app-1 bash
 ```
 5. Run tests
 ```bash
