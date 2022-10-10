@@ -41,7 +41,7 @@ To run this project, follow these steps:
 To run tests, follow these steps:
 1. Go to project folder
 ```bash
-❯ cd codeflix-catalog-admin-microservice
+❯ cd cd codeflix-encoder-microservice
 ```
 2. Rename the `.env.example` file to `.env`
 ```bash
